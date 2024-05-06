@@ -1,10 +1,9 @@
-package C24B2;
+package C24.TRABAJO_CLASE;
 
 import java.util.Scanner;
 
-public class Main {
+public class B2 {
     public static void main(String[] args) {
-
         //EJERCICIO 1
         System.out.println("\n-----------------------------Ejercicios Scanner-----------------------------\n");
         Scanner sc = new Scanner(System.in);
@@ -19,13 +18,8 @@ public class Main {
 
         sc.close();
 
-        Persona p = new Persona();
-        //p.id = "10";
-
         //PRIMER OBJETO PROPIO - PRIMER OBJETO QUE VI EN MI ESCRITORIO
-        System.out.println("\n-----------------------------Actividad crear una clase y apartir de ella un Objeto-----------------------------\n");
+        System.out.println("\n-----------------------------Actividad crear una clase y a partir de ella un Objeto-----------------------------\n");
         Mouse mouse = new Mouse();
-
-        //System.out.print(Integer.MAX_VALUE);
     }
 }

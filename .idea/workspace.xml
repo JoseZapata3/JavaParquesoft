@@ -5,10 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e263dee-41c4-4a0e-92f7-72c74efba67e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/C24/TRABAJO_CLASE/B2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/C24/TRABAJO_CLASE/B6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/C24B6/Coche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/C24B6/Coche.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/C24B6/IVehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/C24B6/IVehiculo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/C24B6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/C24B6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/C24B2/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/C24B2/Mouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/C24/TRABAJO_CLASE/Mouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/C24B2/Persona.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/C24B3/Arreglo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/C24B3/Ejercicios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/C24/TRABAJO_CLASE/B3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/C24B3/SiEntonces.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/C24B4/Ciclos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/C24B4/Funciones.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/C24B5/Errores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/C24B5/LogginJava.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/C24B5/StreamJ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/C24B6/Circulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/C24B6/Coche.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/C24B6/Cuadrado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/C24B6/DiaSemana.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/C24B6/IFigura.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/C24B6/IFiguraGeometrica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/C24B6/IVehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/C24/TRABAJO_CLASE/IVehiculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/C24B6/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/C24B6/Rectangulo.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +39,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -42,6 +62,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Application.B2.executor": "Run",
+    "Application.B3.executor": "Run",
+    "Application.B6.executor": "Run",
     "Application.Ciclos.executor": "Run",
     "Application.Ejercicios.executor": "Run",
     "Application.Funciones.executor": "Run",
@@ -49,6 +73,7 @@
     "Application.Main.executor": "Run",
     "Application.SiEntonces.executor": "Run",
     "Application.StreamJ.executor": "Run",
+    "Application.TrabajoEnClase.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -100,7 +125,7 @@
       <workItem from="1714193377106" duration="3058000" />
       <workItem from="1714355891809" duration="24000" />
       <workItem from="1714601818465" duration="8317000" />
-      <workItem from="1714937558305" duration="12867000" />
+      <workItem from="1714937558305" duration="14776000" />
     </task>
     <servers />
   </component>

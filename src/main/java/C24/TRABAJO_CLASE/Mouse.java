@@ -1,4 +1,4 @@
-package C24B2;
+package C24.TRABAJO_CLASE;
 
 public class Mouse {
 

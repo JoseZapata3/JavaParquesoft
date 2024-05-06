@@ -1,8 +1,8 @@
-package C24B3;
+package C24.TRABAJO_CLASE;
 
 import java.util.Scanner;
 
-public class Ejercicios {
+public class B3 {
     public static void main(String [] args) {
         //Que número es mayor
         System.out.println("\n-----------------------------Ejercicios IF - ELSEIF - ELSE----------------------------\n");
