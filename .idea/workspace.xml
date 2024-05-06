@@ -5,24 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e263dee-41c4-4a0e-92f7-72c74efba67e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/C24B4/Ciclos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/C24B4/Funciones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/C24B5/Errores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/C24B5/LogginJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/C24B5/StreamJ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/C24B6/Circulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/C24B6/Coche.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/C24B6/Cuadrado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/C24B6/DiaSemana.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/C24B6/IFigura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/C24B6/IFiguraGeometrica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/C24B6/IVehiculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/C24B6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/C24B6/Rectangulo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/C24B2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/C24B2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/C24B3/Ejercicios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/C24B3/Ejercicios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/C24B6/Coche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/C24B6/Coche.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/C24B6/IVehiculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/C24B6/IVehiculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/C24B6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/C24B6/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +100,7 @@
       <workItem from="1714193377106" duration="3058000" />
       <workItem from="1714355891809" duration="24000" />
       <workItem from="1714601818465" duration="8317000" />
-      <workItem from="1714937558305" duration="12739000" />
+      <workItem from="1714937558305" duration="12867000" />
     </task>
     <servers />
   </component>

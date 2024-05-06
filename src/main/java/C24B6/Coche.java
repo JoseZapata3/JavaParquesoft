@@ -3,7 +3,7 @@ package C24B6;
 public class Coche implements IVehiculo{
 
     @Override
-    public void acerlerar(int velocidad) {
+    public void acelerar(int velocidad) {
         System.out.println("El coche tiene una velocidad de "+velocidad+"Km/h");
     }
 

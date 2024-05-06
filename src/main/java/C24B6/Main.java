@@ -16,7 +16,7 @@ public class Main {
         System.out.println("\n-----------------------------Ejercicio Intefaces-----------------------------\n");
         Coche miC = new Coche();
 
-        miC.acerlerar(20);
+        miC.acelerar(20);
         miC.frenar();
 
 
