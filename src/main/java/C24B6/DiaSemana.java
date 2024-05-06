@@ -1,0 +1,5 @@
+package C24B6;
+
+public enum DiaSemana {
+    LUNES, MARTES, MIERCOLES, JEUVES, VIERNES, SABADO, DOMINGO
+}

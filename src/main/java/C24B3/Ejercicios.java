@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Ejercicios {
     public static void main(String [] args) {
         //Que número es mayor
+        System.out.println("\n-----------------------------Ejercicios IF - ELSEIF - ELSE----------------------------\n");
         Scanner sc = new Scanner(System.in);
         System.out.println("Ingrese el primer numero: ");
         int num1 = sc.nextInt();
@@ -20,6 +21,7 @@ public class Ejercicios {
         }
 
         //Pedir información estudiantes
+        System.out.println("\n-----------------------------Ejercicios Arreglos-----------------------------\n");
         int[] edadesEstudiantes = new int[5];
         double promedio;
         System.out.println("Ingrese la edad del primer estudiante:");
