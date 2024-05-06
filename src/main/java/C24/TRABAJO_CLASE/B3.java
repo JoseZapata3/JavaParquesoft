@@ -1,7 +1,9 @@
 package C24.TRABAJO_CLASE;
 
 import java.util.Scanner;
-
+/**
+ * @author José Alejandro Zapata Ortiz
+ */
 public class B3 {
     public static void main(String [] args) {
         //Que número es mayor

@@ -4,7 +4,9 @@ import C24B6.Coche;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
-
+/**
+ * @author José Alejandro Zapata Ortiz
+ */
 public class B6 {
     public static void main(String[] args) {
 

@@ -1,8 +1,11 @@
 package C24.TRABAJO_CLASE;
 
 import java.util.Scanner;
-
+/**
+ * @author José Alejandro Zapata Ortiz
+ */
 public class B2 {
+
     public static void main(String[] args) {
         //EJERCICIO 1
         System.out.println("\n-----------------------------Ejercicios Scanner-----------------------------\n");
